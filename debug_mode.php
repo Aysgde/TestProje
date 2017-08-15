@@ -1,6 +1,4 @@
 <?php
-
-
 $debug= isset($_GET['debug']) ? TRUE : FALSE;
 $myOutput='Very Nice';
 $myArrayOutput=['Very','Nice'];
