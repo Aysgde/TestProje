@@ -5,7 +5,7 @@ $myArrayOutput=['Very','Nice'];
 
 //example 1.
 if ($debug){
-exit('<pre>'.myOutput.'</pre>');
+exit('<pre>'.$myOutput.'</pre>');
 }
 
 //example 2.
